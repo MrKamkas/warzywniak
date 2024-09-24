@@ -8,7 +8,9 @@ Zarządzanie klientami: dodawanie, edycja i usuwanie klientów.
 Zarządzanie produktami: przeglądanie produktów oraz ich ilości w magazynie.
 Zakupy: możliwość zakupu produktów przez klientów z aktualizacją stanu magazynowego.
 Historia zamówień: śledzenie zamówień z podziałem na klientów.
+
 Technologie:
 Python: Główny język aplikacji.
 SQLite: Relacyjna baza danych do zarządzania danymi.
+
 Tabulate: Biblioteka do formatowania danych w tabelach w terminalu.
