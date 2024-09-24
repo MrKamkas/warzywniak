@@ -1,4 +1,5 @@
 Warzywniak - System zarządzania sklepem spożywczym
+![Logo Warzywniaka](./warzywniak_logo.png)
 
 Warzywniak to aplikacja napisana w Pythonie z wykorzystaniem bazy danych SQLite. 
 
